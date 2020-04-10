@@ -1,1 +1,1 @@
-# LatticeCryptography
+# Lattice Cryptography
