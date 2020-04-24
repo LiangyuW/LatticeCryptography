@@ -9,7 +9,7 @@ DHLWE.py - generate a key pair using ring learning with error
 
 
 
-#Information On Post-Quantum Cryptography:
+# Information On Post-Quantum Cryptography:
 
 https://www.nist.gov/news-events/news/2016/04/nist-kicks-effort-defend-encrypted-data-quantum-computer-threat
 
