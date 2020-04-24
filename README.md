@@ -7,9 +7,9 @@ RLWE3.py - encrypts a text string using ring learning with error
 DHLWE.py - generate a key pair using ring learning with error
 
 
-extra &nbsp;&nbsp; space
 
-Information On Post-Quantum Cryptography:
+
+#Information On Post-Quantum Cryptography:
 
 https://www.nist.gov/news-events/news/2016/04/nist-kicks-effort-defend-encrypted-data-quantum-computer-threat
 
